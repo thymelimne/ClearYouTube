@@ -8,4 +8,4 @@ A simple browser extension that removes recommended videos from YouTube's view, 
 
 ![searchpage_screenshot](https://user-images.githubusercontent.com/91765107/173666818-9d9af76e-4485-4984-b79e-ceaed6da26b3.png)
 
-*This extension still allows video recommendations as results from the searchbar, as shown in the third picture.*
+*The extension still allows video recommendations as results from the searchbar, as shown in the third picture.*
